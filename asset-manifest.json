@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/web/static/css/main.390341b7.chunk.css",
+    "main.js": "/web/static/js/main.71a4816a.chunk.js",
+    "main.js.map": "/web/static/js/main.71a4816a.chunk.js.map",
+    "runtime-main.js": "/web/static/js/runtime-main.e6a5e8e5.js",
+    "runtime-main.js.map": "/web/static/js/runtime-main.e6a5e8e5.js.map",
+    "static/js/2.811dd5e9.chunk.js": "/web/static/js/2.811dd5e9.chunk.js",
+    "static/js/2.811dd5e9.chunk.js.map": "/web/static/js/2.811dd5e9.chunk.js.map",
+    "static/js/3.09f825c4.chunk.js": "/web/static/js/3.09f825c4.chunk.js",
+    "static/js/3.09f825c4.chunk.js.map": "/web/static/js/3.09f825c4.chunk.js.map",
+    "index.html": "/web/index.html",
+    "static/css/main.390341b7.chunk.css.map": "/web/static/css/main.390341b7.chunk.css.map",
+    "static/js/2.811dd5e9.chunk.js.LICENSE.txt": "/web/static/js/2.811dd5e9.chunk.js.LICENSE.txt",
+    "static/media/bg2.ade108f0.jpeg": "/web/static/media/bg2.ade108f0.jpeg",
+    "static/media/bgnew.45f5cf55.jpg": "/web/static/media/bgnew.45f5cf55.jpg",
+    "static/media/product1.52cbfe9e.jpg": "/web/static/media/product1.52cbfe9e.jpg",
+    "static/media/product2.683bc9bb.jpg": "/web/static/media/product2.683bc9bb.jpg",
+    "static/media/product3.425951cb.jpg": "/web/static/media/product3.425951cb.jpg",
+    "static/media/product4.d173e5db.jpg": "/web/static/media/product4.d173e5db.jpg",
+    "static/media/product5.a01ab9be.jpg": "/web/static/media/product5.a01ab9be.jpg",
+    "static/media/product6.6449ceef.jpg": "/web/static/media/product6.6449ceef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6a5e8e5.js",
+    "static/js/2.811dd5e9.chunk.js",
+    "static/css/main.390341b7.chunk.css",
+    "static/js/main.71a4816a.chunk.js"
+  ]
+}
